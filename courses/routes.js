@@ -5,9 +5,11 @@ function CourseRoutes(app) {
     res.send(courses);
   });
   app.post("/api/courses", (req, res) => {
+    console.log("added in node", req.body);
     const course = { ...req.body,
       _id: new Date().getTime().toString() };
     Database.courses.push(course);
+    console.log("again", Database.courses)
     res.send(course);
   });
 
