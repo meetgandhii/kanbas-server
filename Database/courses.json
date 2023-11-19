@@ -1,0 +1,32 @@
+[
+    { "_id": "RS101",
+      "name": "Web Development", "number": "RS4550", "startDate": "2023-01-10",
+      "endDate": "2023-05-15", "secondLine": "CS4550.12631.202410", "thirdLine": "202410_1 Fall 2023 Semester Full Term"
+    },
+    { "_id": "RS102",
+      "name": "Programming Design Paradigm", "number": "RS4560", "startDate": "2023-01-10", "endDate": "2023-05-15", "secondLine": "CS4550.12631.202410", "thirdLine": "202410_1 Fall 2023 Semester Full Term"
+    },
+    { "_id": "RS103",
+      "name": "Database Management Systems", "number": "RS4570", "startDate": "2023-01-10", "endDate": "2023-05-15", "secondLine": "CS4550.12631.202410", "thirdLine": "202410_1 Fall 2023 Semester Full Term"
+    },
+    { "_id": "RS104",
+      "name": "Algorithms", "number": "RS4580", "startDate": "2023-01-10", "endDate": "2023-05-15", "secondLine": "CS4550.12631.202410", "thirdLine": "202410_1 Fall 2023 Semester Full Term"
+    },
+    { "_id": "RS105",
+      "name": "Foundations of Software Engineering", "number": "RS4590", "startDate": "2023-01-10", "endDate": "2023-05-15", "secondLine": "CS4550.12631.202410", "thirdLine": "202410_1 Fall 2023 Semester Full Term"
+    },
+    { "_id": "RS106",
+      "name": "Foundations of Artificial Intelligence", "number": "RS4600", "startDate": "2023-01-10", "endDate": "2023-05-15", "secondLine": "CS4550.12631.202410", "thirdLine": "202410_1 Fall 2023 Semester Full Term"
+    },
+    { "_id": "RS107",
+      "name": "Natural Language Processing", "number": "RS4610", "startDate": "2023-01-10", "endDate": "2023-05-15", "secondLine": "CS4550.12631.202410", "thirdLine": "202410_1 Fall 2023 Semester Full Term"
+    },
+    { "_id": "RS108",
+      "name": "Machine Learning", "number": "RS4620", "startDate": "2023-01-10", "endDate": "2023-05-15", "secondLine": "CS4550.12631.202410", "thirdLine": "202410_1 Fall 2023 Semester Full Term"
+    },
+    { "_id": "RS109",
+      "name": "Advance Software Development", "number": "RS4630", "startDate": "2023-01-10", "endDate": "2023-05-15", "secondLine": "CS4550.12631.202410", "thirdLine": "202410_1 Fall 2023 Semester Full Term"
+    }
+  ]
+  
+  

@@ -1,0 +1,172 @@
+[
+    {
+      "_id": "M101",
+      "name": "Introduction to Rocket Propulsion",
+      "description": "Basic principles of rocket propulsion and rocket engines.",
+      "course": "RS101"
+    },
+    {
+      "_id": "M102",
+      "name": "Fuel and Combustion",
+      "description": "Understanding rocket fuel, combustion processes, and efficiency.",
+      "course": "RS101"
+    },
+    {
+      "_id": "M103",
+      "name": "Nozzle Design",
+      "description": "Principles of rocket nozzle design and performance optimization.",
+      "course": "RS101"
+    },
+    {
+      "_id": "M201",
+      "name": "Fundamentals of Aerodynamics",
+      "description": "Basic aerodynamic concepts and fluid dynamics principles.",
+      "course": "RS102"
+    },
+    {
+      "_id": "M202",
+      "name": "Subsonic and Supersonic Flow",
+      "description": "Understanding subsonic and supersonic aerodynamic behaviors.",
+      "course": "RS102"
+    },
+    {
+      "_id": "M203",
+      "name": "Aerodynamic Heating",
+      "description": "Study of aerodynamic heating and thermal protection systems.",
+      "course": "RS102"
+    },
+    {
+      "_id": "M301",
+      "name": "Spacecraft Structural Design",
+      "description": "Fundamentals of designing spacecraft structures and materials selection.",
+      "course": "RS103"
+    },
+    {
+      "_id": "M302",
+      "name": "Orbital Mechanics",
+      "description": "Understanding orbital dynamics and mission planning.",
+      "course": "RS103"
+    },
+    {
+      "_id": "M303",
+      "name": "Spacecraft Systems Engineering",
+      "description": "Overview of spacecraft systems and subsystems engineering.",
+      "course": "RS103"
+    }
+  ]
+
+  [
+  {
+    "_id": "M101",
+    "name": "Week 0",
+    "desc1": "Learning Objectives",
+    "desc2": [
+      "Introduction to the course",
+      "Learn what is Web Development",
+      "Creating a development environment",
+      "Creating a Web Application",
+      "Get started with the 1st assignment"
+    ],
+    "course": "RS101"
+  },
+  {
+    "_id": "M102",
+    "name": "Week 0",
+    "desc1": "Reading",
+    "desc2": [
+      "Full Stack Developer - Chapter 1 - Introduction",
+      "Full Stack Developer - Chapter 2 - Creating User Interfaces with HTML"
+    ],
+    "course": "RS101"
+  },
+  {
+    "_id": "M103",
+    "name": "Week 0",
+    "desc1": "Slides",
+    "desc2": [
+      "Introduction to Web Development Links to an external site.",
+      "Creating an HTTP server with Node.js Links to an external site.",
+      "Creating a React Application Links to an external site.",
+      "Commit your source to GitHub.com Links to an external site.",
+      "Deploying to Netlify Links to an external site.",
+      "Deploying multiple branches in Netlify"
+    ],
+    "course": "RS101"
+  },
+  {
+    "_id": "M106",
+    "name": "Week 1",
+    "desc1": "Learning Objectives",
+    "desc2": [
+      "Learn how to create user interfaces with HTML",
+      "Keep working on assignment 1",
+      "Deploy the assignment to Netlify"
+    ],
+    "course": "RS101"
+  },
+  {
+    "_id": "M107",
+    "name": "Week 1",
+    "desc1": "Reading",
+    "desc2": [
+      "Full Stack Developer - Chapter 1 - Introduction",
+      "Full Stack Developer - Chapter 2 - Creating User Interfaces with HTML"
+    ],
+    "course": "RS101"
+  }
+]
+
+
+
+{
+        "_id": "M100",
+        "name": "Week 0",
+        "headings": [
+            "Learning Objectives", "Reading", "Slides"
+        ],
+        "listpoints": [
+            [
+                "Introduction to the course",
+                "Learn what is Web Development",
+                "Creating a development environment",
+                "Creating a Web Application",
+                "Get started with the 1st assignment"
+            ],
+            [
+                "Full Stack Developer - Chapter 1 - Introduction", "Full Stack Developer - Chapter 2 - Creating User Interfaces with HTML"
+            ],
+            [
+                "Introduction to Web Development Links to an external site.",
+                "Creating an HTTP server with Node.js Links to an external site.",
+                "Creating a React Application Links to an external site.",
+                "Commit your source to GitHub.com Links to an external site.",
+                "Deploying to Netlify Links to an external site.",
+                "Deploying multiple branches in Netlify"
+            ]
+        ],
+        "course": "RS101"
+    },
+    {
+        "_id": "M101",
+        "name": "Week 1",
+        "headings": [
+            "Learning Objectives", "Reading", "Slides"
+        ],
+        "listpoints": [
+            [
+                "Learn how to create user interfaces with HTML", "Keep working on assignment 1", "Deploy the assignment to Netlify"
+            ],
+            [
+                "Full Stack Developer - Chapter 1 - Introduction", "Full Stack Developer - Chapter 2 - Creating User Interfaces with HTML"
+            ],
+            [
+                "Introduction to Web Development Links to an external site.",
+                "Creating an HTTP server with Node.js Links to an external site.",
+                "Creating a React Application Links to an external site.",
+                "Commit your source to GitHub.com Links to an external site.",
+                "Deploying to Netlify Links to an external site.",
+                "Deploying multiple branches in Netlify"
+            ]
+        ],
+        "course": "RS101"
+    },
