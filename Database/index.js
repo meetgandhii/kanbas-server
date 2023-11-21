@@ -50,6 +50,7 @@ export default {
   enrollments,
 
   grades,
+  
   gradestableHead
 
 };
