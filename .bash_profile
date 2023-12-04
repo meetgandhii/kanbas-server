@@ -1,0 +1,1 @@
+DB_CONNECTION_STRING=mongodb+srv://meetgandhi:MongoDB@kanbas.gdctxi7.mongodb.net/?retryWrites=true&w=majority
